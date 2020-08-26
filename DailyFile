@@ -5,3 +5,25 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/13558
 http://185.232.53.5:2086/wickeduk/etqyhww45e/64160
 #EXTINF:-1 group-title="USA",ADULT SWIM
 http://185.232.53.5:2086/wickeduk/etqyhww45e/15517
+#EXTINF:-1 tvg-ID="I254.10021.schedulesdirect.org" group-title="USA", AMC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/562
+#EXTINF:-1 tvg-ID="I254.10021.schedulesdirect.org" group-title="USA FHD", AMC FHD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64158
+#EXTINF:-1 tvg-ID="I282.57394.schedulesdirect.org" group-title="USA FHD", ANIMAL PLANET FHD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64154
+#EXTINF:-1 tvg-ID="I425.70337.schedulesdirect.org" group-title="USA FHD", BABY TV FHD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64150
+#EXTINF:-1 tvg-ID="I237.58625.schedulesdirect.org" group-title="USA", BRAVO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/315
+#EXTINF:-1 tvg-ID="I237.58625.schedulesdirect.org" group-title="USA FHD", BRAVO FHD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64147
+#EXTINF:-1 tvg-ID="I296.12131.schedulesdirect.org" group-title="USA FHD", CARTOON NETWORK FHD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64139
+#EXTINF:-1 group-title="USA", CBS SPORTS HQ
+http://185.232.53.5:2086/wickeduk/etqyhww45e/6730
+#EXTINF:-1 tvg-ID="I221.59250.schedulesdirect.org" group-title="USA", CBS SPORTS NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/220
+#EXTINF:-1 tvg-ID="I221.16365.schedulesdirect.org" group-title="USA FHD", CBS SPORTS NETWORK FHD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64144
+#EXTINF:-1 tvg-ID="I249.62420.schedulesdirect.org" group-title="USA FHD", COMEDY CENTRAL FHD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64135
