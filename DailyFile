@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="USA",NBC (Los Angeles)
+http://ipvideo.online:2082/live/TvLatinoPs/2020/54811.m3u8
 #EXTINF:-1 group-title="USA" tvg-ID="I254.10021.schedulesdirect.org",A&E
 http://185.232.53.5:2086/wickeduk/etqyhww45e/13558
 #EXTINF:-1 group-title="USA FHD" tvg-ID="I265.51529.schedulesdirect.org",A&E FHD
