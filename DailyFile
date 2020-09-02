@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1,United States: CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1,United States: CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1,United States: NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+
 #EXTINF:-1 group-title="USA",NBC (Los Angeles)
 http://ipvideo.online:2082/live/TvLatinoPs/2020/54811.m3u8
 #EXTINF:-1 group-title="USA" tvg-ID="I254.10021.schedulesdirect.org",A&E
